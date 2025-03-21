@@ -4,7 +4,7 @@
 
 Our project investigates gender bias in Large Language Models (LLMs) when translating from English to Slovene, focusing on how ambiguous pronouns are translated. English and Slovene have different gender marker structures, and we aim to analyze how LLMs may introduce or reinforce gender biases in these translations.
 We will use the WinoBias dataset, which contains gender-biased sentences, to study how LLMs handle pronouns in ambiguous contexts. The analysis will involve one open-source model and one closed-source model.
-This analysis is crucial for understanding how LLMs handle gendered language, ensuring fairer, less biased translations in multilingual contexts.
+The purpose of our project is to showcase how LLMs handle gendered language, which is curcial factor in ensuring fairer, less biased translations in multilingual contexts.
 
 
 
