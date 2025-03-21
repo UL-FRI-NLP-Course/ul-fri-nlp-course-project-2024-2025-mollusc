@@ -8,6 +8,7 @@ The purpose of our project is to showcase how LLMs handle gendered language, whi
 
 
 
+
 2 PROJECT MEMBERS
 
 Pia Polutnik
@@ -15,6 +16,7 @@ Pia Polutnik
 Tajda Hladnik
 
 Marko Stoklas 
+
 
 
 
