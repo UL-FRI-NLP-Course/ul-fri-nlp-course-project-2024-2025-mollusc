@@ -30,3 +30,8 @@ https://doi.org/10.48550/arxiv.2403.11896
 
 Hadas Kotek, Rikker Dockum, David Sun. 2023. Gender bias and stereotypes in Large Language Models. 
 https://dl.acm.org/doi/abs/10.1145/3582269.3615599
+
+
+
+**Update on the project 2.5.2025**
+We have begun researching how LLMs deal with translation from a language with fewer gender markers to those with a highly gendered language. We added the excell sheet in which we are doing our research, which still looks a bit messy, but will gradually get more tidy over time. In the secondsubmission.pdf we added methodology we used when analyising the close-sourced LLM - ChatGPT and some key findings. More to come in the following week.
